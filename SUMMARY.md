@@ -16,3 +16,4 @@
   * [Collection Pattern](rest-api/collection-pattern.md)
   * [Collection Pattern 적용](rest-api/collection-pattern-1.md)
   * [Spring Web MVC로 구현](rest-api/spring-web-mvc.md)
+  * [과제) 쇼핑몰 백엔드 REST API 설계](rest-api/rest-api-1.md)
