@@ -22,9 +22,9 @@
 
 #### 설정 추가하기
 
-IntellJ IDEA에서 아래의 설정을 추가로 변경해주세요.
+IntellJ IDEA에서 아래의 설정을 추가로 변경
 
-1. [IntelliJ Java import wildcard 죽이기!](https://www.jetbrains.com/help/idea/creating-and-optimizing-imports.html#disable-wildcard-imports)
-2.  [IntelliJ 힌트 죽이기!](https://www.jetbrains.com/help/idea/2022.2/viewing-reference-information.html#inlay-hints)
+1. [IntelliJ Java import wildcard](https://www.jetbrains.com/help/idea/creating-and-optimizing-imports.html#disable-wildcard-imports) 끄기
+2.  [IntelliJ 힌트 ](https://www.jetbrains.com/help/idea/2022.2/viewing-reference-information.html#inlay-hints)끄기
 
-    \*\* 에디터의 인레이 힌트를 꺼주세요.
+    \*\* 에디터의 인레이 힌트끔.
