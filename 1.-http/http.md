@@ -10,7 +10,13 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+### HTTP와 HTTPS의 차이(TLS)
 
+HTTPS (_HTTP Secure_) 는 HTTP protocol의 암호화된 버전으로  클라이언트와 서버 간의 모든 커뮤니케이션을 암호화 하기 위하여 SSL 이나 TLS을 사용.&#x20;
+
+이 커넥션은 클라이언트가 민감한 정보를 서버와 안전하게 주고받도록 해줌
+
+ex) 금융 활동, 온라인 쇼핑
 
 
 
